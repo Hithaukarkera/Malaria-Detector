@@ -19,7 +19,7 @@ Malaria is a prevalent and deadly disease in many parts of the world. Timely det
 
 Before using this Malaria Detector, ensure that you have the following requirements:
 
-- MATLAB installed (tested with MATLAB R20XX or later)
+- MATLAB installed (tested with MATLAB R2020a)
 - Image Processing Toolbox (if not included with your MATLAB distribution)
 
 
