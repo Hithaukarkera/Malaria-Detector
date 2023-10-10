@@ -23,8 +23,6 @@ Before using this Malaria Detector, ensure that you have the following requireme
 - Image Processing Toolbox (if not included with your MATLAB distribution)
 
 
-
-
 ## Project Structure
 
 The project is structured as follows:
@@ -35,17 +33,6 @@ The project is structured as follows:
   - `test_images/`: Folder containing test images for malaria detection.
     - `infected/`: Subfolder containing infected image samples.
     - `NotInfected/`: Subfolder containing non-infected image samples.
-
-
-
-## Project Structure
-
-- Malaria Detector: The main project folder.
-  * app.mlapp: MATLAB app file for the Malaria detection app.
-  * MalariaDetector.app: MATLAB app bundle file for the Malaria detection app.
-   - test_images: Folder containing test images for malaria detection.
-      - infected: Subfolder containing infected image samples.
-      - NotInfected: Subfolder containing non-infected image samples.
 
 
 ## Usage
