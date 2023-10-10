@@ -25,10 +25,10 @@ Before using this Malaria Detector, ensure that you have the following requireme
 ## Project Structure
 
 - Malaria Detector: The main project folder.
-- - app.mlapp: MATLAB app file for the Malaria detection app.
+ - app.mlapp: MATLAB app file for the Malaria detection app.
   - MalariaDetector.app: MATLAB app bundle file for the Malaria detection app.
-  - - test_images: Folder containing test images for malaria detection.
-    - - infected: Subfolder containing infected image samples.
+   - test_images: Folder containing test images for malaria detection.
+      - infected: Subfolder containing infected image samples.
       - NotInfected: Subfolder containing non-infected image samples.
 
 
