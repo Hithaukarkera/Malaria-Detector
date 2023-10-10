@@ -8,10 +8,8 @@ This project is a Malaria Detector implemented in MATLAB. It processes microscop
 
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
+- [Project Structure](#projectstructures)
 - [Usage](#usage)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -23,6 +21,9 @@ Before using this Malaria Detector, ensure that you have the following requireme
 
 - MATLAB installed (tested with MATLAB R20XX or later)
 - Image Processing Toolbox (if not included with your MATLAB distribution)
+
+
+
 
 ## Usage
 
