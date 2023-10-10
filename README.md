@@ -1,6 +1,5 @@
 # Malaria Detector
 
-![Malaria Detector](malaria_image.jpg)
 
 This project is a Malaria Detector implemented in MATLAB. It processes microscope images to identify malaria parasites using basic image processing techniques. If the total area of detected regions exceeds a certain threshold, it indicates the presence of malaria.
 
