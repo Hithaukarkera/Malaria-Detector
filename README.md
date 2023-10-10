@@ -1,31 +1,32 @@
 # Malaria Detector
 
-![Malaria](malaria_image.jpg)
+![Malaria Detector](malaria_image.jpg)
 
-This repository contains a MATLAB project and standalone script for the detection and diagnosis of malaria from microscope images. It utilizes image processing techniques to identify malaria parasites in blood smear images with high accuracy. Rigorous testing and optimization have been conducted to enhance the application's performance.
+This project is a Malaria Detector implemented in MATLAB. It processes microscope images to identify malaria parasites using basic image processing techniques. If the total area of detected regions exceeds a certain threshold, it indicates the presence of malaria.
 
 ## Table of Contents
 
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
+- [Example](#example)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
 
-Malaria is a serious disease that affects millions of people worldwide. Early and accurate diagnosis is crucial for effective treatment. This project aims to provide a tool for the automated detection and diagnosis of malaria using image processing techniques.
+Malaria is a prevalent and deadly disease in many parts of the world. Timely detection and diagnosis are crucial for effective treatment. This project offers a basic tool to help detect potential malaria-infected areas in microscope images.
 
 ## Prerequisites
 
-To run this project, you'll need the following:
+Before using this Malaria Detector, ensure that you have the following requirements:
 
-- MATLAB (version X.X or higher)
-- Image Processing Toolbox (if not already included with MATLAB)
+- MATLAB installed (tested with MATLAB R20XX or later)
+- Image Processing Toolbox (if not included with your MATLAB distribution)
 
 ## Usage
 
-1. Clone the repository to your local machine:
+1. Clone or download this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/malaria-detection.git
+   git clone https://github.com/yourusername/malaria-detector.git
